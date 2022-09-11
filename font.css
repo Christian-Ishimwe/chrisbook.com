@@ -1,0 +1,81 @@
+.facebook-title{
+	text-align: center;
+	color: #2828dc;
+	font-family: monospace;
+	font-weight: bold;
+}
+.header{
+	text-align: center;
+}
+.login-button{
+	color: #eee8e8;
+	background-color: #1f1fcb;
+	padding: 5px 155px;
+	border-style: none;
+	border-radius: 3px;
+	cursor: pointer;
+	
+}
+.email-bar{
+	text-align: left;
+	background-color: #edeaea;
+	padding: 5px  90px;
+	border-radius: 3px;
+	border-style: none;
+}
+.password-bar{
+	padding: 5px 90px;
+	background-color: #edeaea;
+	border-radius: 3px;
+	border-style: none;
+}
+.forget-link{
+	text-decoration: none;
+	margin-top: 60px;
+	line-height: 78px;	
+
+}
+.linet{
+	text-align: center;
+}
+
+	
+.footer{display: flex;
+	justify-content: space-between;
+}
+.meta{
+	text-align: center;
+}
+li{
+	line-height: 16px;
+	list-style-type: none;
+	text-decoration: none;
+}
+a{
+	text-decoration: none;
+}
+.language-content{
+	margin-right: 200px;
+}
+.higher{
+	margin-left: 100px;
+}
+
+
+.add{
+	border-style: solid;
+	border-radius: 3px;
+	color: #7474ab;
+	padding: 2px 5px;
+	
+
+}
+.new-account{
+	padding: 7px 20px;
+	color:  #fcefef;
+	background-color: #39ae39 ;
+	margin-bottom: 70px;
+	border-radius: 3px;
+	border-style: none;
+	cursor: pointer;
+}
